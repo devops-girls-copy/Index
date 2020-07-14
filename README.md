@@ -2,6 +2,10 @@
 
 More presentations here (https://github.com/DevOpsGirls)
 
+- learn like a girl
+- women in tech
+- EC2 basics
+
 ## Bootcamp 1 - Website using Gatsby
 
 1. Create a Gatsby site
