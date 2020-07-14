@@ -4,6 +4,11 @@ More presentations here (https://github.com/DevOpsGirls)
 
 ## Bootcamp 1 - Website using Gatsby
 
+1. Create a Gatsby site
+
+1. Start developing
+
+1. Open the source code and start editing
 
 ## Bootcamp 2 - Blog in AWS
 
