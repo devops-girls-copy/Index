@@ -24,7 +24,7 @@ DevOpsGirls Bootcamp is composed of three primary modules with an additional mod
 
 Each of the modules represents a continuing improvement on a blog website - a blog that you can login to, and post things in. With each module, we're making the blog more automated, more resilient, and more durable to issues.
 
-## Bootcamp 3
+## Bootcamp 3 - Options for website deployment 
 
 We will deploy a website the cloud using three different and interesting methods:
 
@@ -35,3 +35,19 @@ We will deploy a website the cloud using three different and interesting methods
 1.  Deploy a serverless site!!!
 
 Each of these approaches has a different set of use cases and you will be able to recognize the value that each option provides.
+
+## Bootcamp 4 - Todo App example
+
+1.  Click-Ops Todo: walkthrough of manually creating a todo app through the AWS web interface
+
+1.  Serverless Starter Todo: walkthrough of creating a todo app with the Serverless Framework
+
+1.  Serverless Final Todo: completed version of a todo app for reference
+
+## 101 sessions
+
+- commandline
+- networking
+- docker
+- kubernetes
+- software testing
