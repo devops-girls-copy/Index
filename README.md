@@ -1,5 +1,7 @@
 # Index
 
+How to run an event (https://github.com/DevOpsGirls/devopsgirls-bootcamp/blob/master/CONTRIBUTING.md)
+
 More presentations here (https://github.com/DevOpsGirls)
 
 - learn like a girl
