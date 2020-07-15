@@ -50,7 +50,7 @@ Each of these approaches has a different set of use cases and you will be able t
 
 ## 101 sessions
 
-- commandline
+- command-line
 - networking
 - docker
 - kubernetes
