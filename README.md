@@ -14,7 +14,7 @@ More presentations here (https://github.com/DevOpsGirls)
 
 1. Open the source code and start editing
 
-![sample website](https://brave-panini-5292da.netlify.app)
+[sample website](https://brave-panini-5292da.netlify.app)
 
 ## Bootcamp 2 - Blog in AWS
 
