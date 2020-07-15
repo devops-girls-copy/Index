@@ -48,10 +48,22 @@ Each of these approaches has a different set of use cases and you will be able t
 
 1.  Serverless Final Todo: completed version of a todo app for reference
 
+## Bootcamp 5 - DevOps Testing
+
+
+1-1 Testing in DevOps, an Overview
+1-2 AWS Overview
+
+2-1 Deploy to S3
+2-2 Deploy to EC2
+3-1 Monitoring
+4-1 AWS Developer Tools
+
+
 ## 101 sessions
 
 - command-line
 - networking
 - docker
 - kubernetes
-- software testing
+
